@@ -2,8 +2,13 @@
 content_type: resource
 description: Supplementary notes to a lecture on harmonic functions and holomorphic
   functions, Poisson's formula, and Schwarz's theorem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-112-functions-of-a-complex-variable-fall-2008/414780e0991d20cd338320d3784fae4d_lecture16.pdf
+file: /media/courses/18-112-functions-of-a-complex-variable-fall-2008/414780e0991d20cd338320d3784fae4d_lecture16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 16: Harmonic Functions'
 uid: 414780e0-991d-20cd-3383-20d3784fae4d
