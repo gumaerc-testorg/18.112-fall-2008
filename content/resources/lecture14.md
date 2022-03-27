@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 resourcetype: Document
 title: 'Lecture 14: The Residue Theorem and Application'
 uid: 59e05876-7d62-56ca-57d8-e757bb257715

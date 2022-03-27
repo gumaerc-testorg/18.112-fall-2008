@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 86059d2c-2bc5-5b6b-1612-5e265e0d084c
 resourcetype: Document
 title: Problems for 18.112 Mid 2 (Open Book)
 uid: 3e7853ec-e357-5a63-ae73-9348b0a5e2e6

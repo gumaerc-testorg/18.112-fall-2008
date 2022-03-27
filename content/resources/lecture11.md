@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 resourcetype: Document
 title: 'Lecture 11: Isolated Singularities'
 uid: c10ce9f5-f125-d1a4-29f8-82843c132a7e

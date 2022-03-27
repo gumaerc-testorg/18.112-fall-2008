@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 resourcetype: Document
 title: 'Lecture 21 and 22: The Prime Number Theorem'
 uid: 92b945ce-46ed-c1b1-6588-82a700efd65b

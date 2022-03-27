@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 resourcetype: Document
 title: 'Lecture 7: Linear Transformations'
 uid: aaec7f93-3629-522f-40cc-b7a35b564c86

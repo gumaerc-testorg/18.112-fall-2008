@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 86059d2c-2bc5-5b6b-1612-5e265e0d084c
 resourcetype: Document
 title: Solution for 18.112 Final Examination
 uid: 4cf2623f-b52f-4930-cdf8-d6d4e2d46873

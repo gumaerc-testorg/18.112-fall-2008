@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 resourcetype: Document
 title: 'Lecture 2: Exponential function & Logarithm for a complex argument'
 uid: a3e45300-97ff-55fb-aeae-eeaa7311fd34

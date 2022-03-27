@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 resourcetype: Document
 title: 'Lecture 23: The Gamma Function and the Functional Equation for the Zeta Function'
 uid: ea9e6045-9c0e-5b83-34ac-100a61e092e4

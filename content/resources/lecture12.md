@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 resourcetype: Document
 title: "Lecture 12: The Local Mapping. Schwarz\u2019s Lemma and non-Euclidean interpretation"
 uid: e1ff31d0-8b7c-6f27-cf72-5d9214ba4324

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 86059d2c-2bc5-5b6b-1612-5e265e0d084c
 resourcetype: Document
 title: Solution for 18.112 Mid 1
 uid: 4fe69129-0c7b-deb3-7575-12afe01f832c

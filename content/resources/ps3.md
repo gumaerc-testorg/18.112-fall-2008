@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 90101b46-3632-d6c6-14c1-866a3b2f6cd1
 resourcetype: Document
 title: Solution for 18.112 ps 3
 uid: 4695bc55-9dad-5c87-5f9f-c3476f05f938
