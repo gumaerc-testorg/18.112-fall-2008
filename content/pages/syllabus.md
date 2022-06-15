@@ -1,30 +1,29 @@
 ---
 content_type: page
+description: This syllabus section provides the information on course objectives,
+  meeting times, prerequisites, the course text, homework assignments, exams, grading,
+  and general remarks.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 4f62144c-a781-e71e-d484-a125dba2f810
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Course Objective
-----------------
+## Course Objective
 
 The aim of the course is to teach the principal techniques and methods of analytic function theory. This is quite different from real analysis and has much more geometric emphasis. It also has significant applications to other fields like analytic number theory.
 
-Prerequisite
-------------
+## Prerequisite
 
-Analysis I (18.100B) or the equivalent.
+Analysis I ([18.100B](/courses/18-100b-analysis-i-fall-2010)) or the equivalent.
 
-Text
-----
+## Text
 
-Ahlfors, Lars V. _Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable_. 3rd ed. New York, NY: McGraw-Hill, 1979. ISBN: 9780070006577.
+Ahlfors, Lars V. *Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable*. 3rd ed. New York, NY: McGraw-Hill, 1979. ISBN: 9780070006577.
 
 This is a text with an attractive geometric flavor. I plan to cover most of the material up to p. 232, but will add two lectures devoted to a complete proof of the Prime Number Theorem, which fits very naturally in with the text material on the Riemann zeta function.
 
@@ -32,75 +31,46 @@ In most of the lectures I will add some material not in the text, partly giving 
 
 Since the lectures deviate so much from the text, regular attendance is strongly recommended.
 
-Homework Assignments
---------------------
+## Homework Assignments
 
 Given out every other Thursday, due the next Thursday. This will be selected from problems in the text.
 
-Exams
------
+## Exams
 
 Two in-class tests following Lec #4 and 16. Also a final examination.
 
-Grading
--------
+## Grading
 
 The final grade is based on a cumulative point total.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Homework
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Two in-class tests (20% each)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 40%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 50%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-General Remarks
----------------
+## General Remarks
 
 Working on the homework problems is very important for your understanding and command of the subject. Be sure you allow plenty of time for this. It is ok for you to discuss the problems with another student but you must give your own exposition of the solution. In the process you will often be lead to a better solution. It is very important to do this exposition in a neat fashion. This is the right place for you to develop a clear mathematical writing style. (Tex is of course most welcome). Sloppy homework might not be accepted.
 
-There are dozens of books available on the topic of complex variables. I urge you strongly to browse in some of these in the library. Caratheodory's books _Theory of Functions_ Vol. I and II are closely related to our text. Also, I would particularly recommend Pólya and Szegö: _Problems and Theorems in Analysis_. Several chapters there deal with the subject of complex variables. Rudin's book, _Real and Complex Analysis_ is also a valuable reference.
+There are dozens of books available on the topic of complex variables. I urge you strongly to browse in some of these in the library. Caratheodory's books *Theory of Functions* Vol. I and II are closely related to our text. Also, I would particularly recommend Pólya and Szegö: *Problems and Theorems in Analysis*. Several chapters there deal with the subject of complex variables. Rudin's book, *Real and Complex Analysis* is also a valuable reference.
 
-Caratheódory, Constantin. _Theory of Functions of a Complex Variable_. Rhode Island: AMS Chelsea Pub, 2001. ISBN: 9780821828311.
+Caratheódory, Constantin. *Theory of Functions of a Complex Variable*. Rhode Island: AMS Chelsea Pub, 2001. ISBN: 9780821828311.
 
-Caratheódory, Constantin, and F. Steinhardt. _Theory of Functions of a Complex Variable_. Vol. 2. New York, NY: Chelsea, 1960.
+Caratheódory, Constantin, and F. Steinhardt. *Theory of Functions of a Complex Variable*. Vol. 2. New York, NY: Chelsea, 1960.
 
-Pólya, George, and Gábor Szego. _Problems and Theorems in Analysis_. Berlin: Springer, 1978. ISBN: 9780387056722.
+Pólya, George, and Gábor Szego. *Problems and Theorems in Analysis*. Berlin: Springer, 1978. ISBN: 9780387056722.
 
-Rudin, Walter. _Real and Complex Analysis_. New York, NY: McGraw-Hill, 1986. ISBN: 9780070542341.
+Rudin, Walter. *Real and Complex Analysis*. New York, NY: McGraw-Hill, 1986. ISBN: 9780070542341.
