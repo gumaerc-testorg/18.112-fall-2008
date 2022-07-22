@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned from the course text
+  and supplemented by original notes by Prof. Helgason.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9fd83f77-9805-0513-750b-1552ba21ad73
 ---
@@ -41,7 +46,7 @@ The algebra of complex numbers: the geometry of the complex plane, the spherical
 Ahlfors, pp. 1-11 and 19-20
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1))
+({{% resource_link 9fd0d608-9b7b-afb0-b249-e144bc2c71f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +61,7 @@ Exponential function and logarithm for a complex argument: the complex exponenti
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2))
+({{% resource_link a3e45300-97ff-55fb-aeae-eeaa7311fd34 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +76,7 @@ Analytic functions; rational functions: the role of the Cauchy-Riemann equations
 Ahlfors, pp. 21-32
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture3))
+({{% resource_link 5b160873-93d4-2960-a09d-3e739e0e0d69 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +91,7 @@ Power series: complex power series, uniform convergence
 Ahlfors, pp. 33-42
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture4))
+({{% resource_link 4152ef5a-9d72-b42e-8410-b889144dd5a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +106,7 @@ Exponentials and trigonometric functions
 Ahlfors, pp. 42-47
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture5))
+({{% resource_link 2708cb0d-adbf-a235-1dec-ec5f75a90313 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +121,7 @@ Conformal maps; linear transformations: analytic functions and elementary geomet
 Ahlfors, pp. 69-80
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture6))
+({{% resource_link 9c43e823-d8da-5677-99b5-e3b334c71693 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +136,7 @@ Linear transformations (cont.): cross ratio, symmetry, role of circles
 Ahlfors, pp. 80-89
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture7))
+({{% resource_link aaec7f93-3629-522f-40cc-b7a35b564c86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +151,7 @@ Line integrals: path independence and its equivalence to the existence of a prim
 Ahlfors, pp. 101-108
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture8))
+({{% resource_link e9fd84fd-2ff0-91ae-10ba-f7a9580c003b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +166,7 @@ Cauchy-Goursat theorem
 Ahlfors, pp. 109-115
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture9))
+({{% resource_link 0b452e3f-fd5e-6711-1d10-d5fc4a08e93d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +181,7 @@ The special cauchy formula and applications: removable singularities, the comple
 Ahlfors, pp. 118-126
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10))
+({{% resource_link b20a053d-7055-a4c4-544f-3e71c21b6d22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +196,7 @@ Isolated singularities
 Ahlfors, pp. 126-130
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11))
+({{% resource_link c10ce9f5-f125-d1a4-29f8-82843c132a7e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +211,7 @@ The local mapping; Schwarz's lemma and non-Euclidean interpretation: topological
 Ahlfors, pp. 130-136
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12))
+({{% resource_link e1ff31d0-8b7c-6f27-cf72-5d9214ba4324 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +226,7 @@ The general Cauchy theorem
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture13))
+({{% resource_link 8793d412-fa0d-a2a4-1835-39f5d8f7e3fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +241,7 @@ The residue theorem and applications: calculation of residues, argument principl
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture14))
+({{% resource_link 59e05876-7d62-56ca-57d8-e757bb257715 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +256,7 @@ Contour integration and applications: evaluation of definite integrals, careful 
 Ahlfors, pp. 154-161
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture15))
+({{% resource_link 9ea79d65-3ed2-125c-99ba-ecf26ce9f27a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +271,7 @@ Harmonic functions: harmonic functions and holomorphic functions, Poisson's form
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture16))
+({{% resource_link 414780e0-991d-20cd-3383-20d3784fae4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +286,7 @@ Mittag-Leffer's theorem: Laurent series, partial fractions expansions
 Ahlfors, pp. 187-190
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture17))
+({{% resource_link 6acd70c6-6ac6-99b0-3c08-f9e1dba247d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +301,7 @@ Infinite products: Weierstrass' canonical products, the gamma function
 Ahlfors, pp. 191-200
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture18_long2))
+({{% resource_link 2197c9db-2065-ba85-2120-f62facff47d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +316,7 @@ Normal families: equiboundedness for holomorphic functions, Arzela's theorem
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture19))
+({{% resource_link 429086eb-25c1-2651-e59d-07ef24a0b0e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +331,7 @@ The Riemann mapping theorem
 Ahlfors, pp. 229-231
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture20))
+({{% resource_link 65b07f61-f223-1f3a-7559-503c2f03baa6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -341,7 +346,7 @@ The prime number theorem: the history of the theorem and the proof, the details 
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture21_22))
+({{% resource_link 92b945ce-46ed-c1b1-6588-82a700efd65b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -362,7 +367,7 @@ For the original proof, see p. 146 of Weber, Heinrich, ed. _The Collected Works 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture23))
+({{% resource_link ea9e6045-9c0e-5b83-34ac-100a61e092e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
