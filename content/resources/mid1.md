@@ -5,6 +5,7 @@ file: /courses/18-112-functions-of-a-complex-variable-fall-2008/4fe691290c7bdeb3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solution for 18.112 Mid 1
 uid: 4fe69129-0c7b-deb3-7575-12afe01f832c
 ---
 Solutions to an in-class exam on functions of a complex variable.
-

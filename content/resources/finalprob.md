@@ -5,6 +5,7 @@ file: /courses/18-112-functions-of-a-complex-variable-fall-2008/d6e331b29a14de83
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Exam
 uid: d6e331b2-9a14-de83-ce14-e631b5e1715b
 ---
 Final exam on functions of a complex variable.
-

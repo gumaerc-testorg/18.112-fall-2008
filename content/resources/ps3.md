@@ -5,6 +5,7 @@ file: /courses/18-112-functions-of-a-complex-variable-fall-2008/4695bc559dad5c87
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solution for 18.112 ps 3
 uid: 4695bc55-9dad-5c87-5f9f-c3476f05f938
 ---
 Problem set solutions.
-

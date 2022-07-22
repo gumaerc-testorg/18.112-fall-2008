@@ -6,6 +6,7 @@ file: /courses/18-112-functions-of-a-complex-variable-fall-2008/92b945ce46edc1b1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 21 and 22: The Prime Number Theorem'
 uid: 92b945ce-46ed-c1b1-6588-82a700efd65b
 ---
 Supplementary notes to a lecture on the prime number theorem, the history of the theorem and the proof, and the details of the proof.
-

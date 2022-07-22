@@ -7,6 +7,7 @@ file: /courses/18-112-functions-of-a-complex-variable-fall-2008/9c43e823d8da5677
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 6: Conformal Maps; Linear Transformations'
 uid: 9c43e823-d8da-5677-99b5-e3b334c71693
 ---
 Supplementary notes to a lecture on conformal maps, linear transformations, analytic functions and elementary geometric properties, and conformality and scalar invariance.
-

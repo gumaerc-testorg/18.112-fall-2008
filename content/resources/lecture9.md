@@ -6,6 +6,7 @@ file: /courses/18-112-functions-of-a-complex-variable-fall-2008/0b452e3ffd5e6711
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 9: Cauchy-Goursat Theorem'
 uid: 0b452e3f-fd5e-6711-1d10-d5fc4a08e93d
 ---
 Supplementary notes to a lecture on line integrals, path independence, and its equivalence to the existence of a primitive.
-

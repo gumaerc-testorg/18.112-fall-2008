@@ -6,6 +6,7 @@ file: /courses/18-112-functions-of-a-complex-variable-fall-2008/59e058767d6256ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 14: The Residue Theorem and Application'
 uid: 59e05876-7d62-56ca-57d8-e757bb257715
 ---
 Supplementary notes to a lecture on the residue theorem and applications, calculation of residues, argument principle, and Rouché's theorem.
-
