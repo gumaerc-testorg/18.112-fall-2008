@@ -3,6 +3,7 @@ content_type: resource
 description: Supplementary notes to a lecture on the power series, complex power series,
   and uniform convergence.
 file: /courses/18-112-functions-of-a-complex-variable-fall-2008/4152ef5a9d72b42e8410b889144dd5a3_lecture4.pdf
+file_size: 104733
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

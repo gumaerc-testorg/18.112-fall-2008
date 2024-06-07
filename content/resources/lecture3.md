@@ -3,6 +3,7 @@ content_type: resource
 description: Supplementary notes to a lecture on analytic functions, rational functions,
   and the role of the Cauchy-Riemann equations.
 file: /courses/18-112-functions-of-a-complex-variable-fall-2008/5b16087393d42960a09d3e739e0e0d69_lecture3.pdf
+file_size: 135731
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
