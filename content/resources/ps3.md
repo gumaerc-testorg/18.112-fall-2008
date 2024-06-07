@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set solutions.
 file: /courses/18-112-functions-of-a-complex-variable-fall-2008/4695bc559dad5c875f9fc3476f05f938_ps3.pdf
+file_size: 162447
 file_type: application/pdf
 learning_resource_types:
 - Assignments
