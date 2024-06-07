@@ -3,6 +3,7 @@ content_type: resource
 description: Supplementary notes to a lecture on infinite products, Weierstrass' canonical
   products, and the gamma function.
 file: /courses/18-112-functions-of-a-complex-variable-fall-2008/c7b8b056419f5ac539447537ea678cf6_lecture18.pdf
+file_size: 97345
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

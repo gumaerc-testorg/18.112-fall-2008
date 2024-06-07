@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary notes to a lecture on exponentials and trigonometric functions.
 file: /courses/18-112-functions-of-a-complex-variable-fall-2008/2708cb0dadbfa2351decec5f75a90313_lecture5.pdf
+file_size: 93622
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

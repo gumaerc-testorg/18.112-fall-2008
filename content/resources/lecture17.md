@@ -3,6 +3,7 @@ content_type: resource
 description: Supplementary notes to a lecture on Mittag-Leffer's theorem, Laurent
   series, and partial fractions expansions.
 file: /courses/18-112-functions-of-a-complex-variable-fall-2008/6acd70c66ac699b03c08f9e1dba247d5_lecture17.pdf
+file_size: 135227
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
