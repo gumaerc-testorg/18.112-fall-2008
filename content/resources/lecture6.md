@@ -3,7 +3,7 @@ content_type: resource
 description: Supplementary notes to a lecture on conformal maps, linear transformations,
   analytic functions and elementary geometric properties, and conformality and scalar
   invariance.
-file: /courses/18-112-functions-of-a-complex-variable-fall-2008/9c43e823d8da567799b5e3b334c71693_lecture6.pdf
+file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/9c43e823d8da567799b5e3b334c71693_lecture6.pdf
 file_size: 247567
 file_type: application/pdf
 learning_resource_types:
