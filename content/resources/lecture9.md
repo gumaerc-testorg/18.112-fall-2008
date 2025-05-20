@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary notes to a lecture on line integrals, path independence,
   and its equivalence to the existence of a primitive.
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/0b452e3ffd5e67111d10d5fc4a08e93d_lecture9.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/0b452e3ffd5e67111d10d5fc4a08e93d_lecture9.pdf
 file_size: 90415
 file_type: application/pdf
 learning_resource_types:

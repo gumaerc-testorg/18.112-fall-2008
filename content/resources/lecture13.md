@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary notes to a lecture on the general Cauchy theorem.
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/8793d412fa0da2a4183539f5d8f7e3fd_lecture13.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/8793d412fa0da2a4183539f5d8f7e3fd_lecture13.pdf
 file_size: 140036
 file_type: application/pdf
 learning_resource_types:

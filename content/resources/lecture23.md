@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary notes to a lecture on the extension of the zeta function
   to C, and the functional equation.
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/ea9e60459c0e5b8334ac100a61e092e4_lecture23.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/ea9e60459c0e5b8334ac100a61e092e4_lecture23.pdf
 file_size: 72597
 file_type: application/pdf
 learning_resource_types:

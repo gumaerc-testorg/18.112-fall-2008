@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary notes to a lecture on normal families, equiboundedness
   for holomorphic functions, and Arzela's theorem.
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/429086eb25c12651e59d07ef24a0b0e5_lecture19.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/429086eb25c12651e59d07ef24a0b0e5_lecture19.pdf
 file_size: 122948
 file_type: application/pdf
 learning_resource_types:

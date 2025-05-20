@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam on functions of a complex variable.
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/d6e331b29a14de83ce14e631b5e1715b_finalprob.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/d6e331b29a14de83ce14e631b5e1715b_finalprob.pdf
 file_size: 110817
 file_type: application/pdf
 learning_resource_types:
