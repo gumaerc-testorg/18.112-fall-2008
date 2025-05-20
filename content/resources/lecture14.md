@@ -2,7 +2,7 @@
 content_type: resource
 description: "Supplementary notes to a lecture on the residue theorem and applications,\
   \ calculation of residues, argument principle, and Rouch\xE9's theorem."
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/59e058767d6256ca57d8e757bb257715_lecture14.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/59e058767d6256ca57d8e757bb257715_lecture14.pdf
 file_size: 645970
 file_type: application/pdf
 learning_resource_types:

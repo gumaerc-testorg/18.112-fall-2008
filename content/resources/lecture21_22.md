@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary notes to a lecture on the prime number theorem, the history
   of the theorem and the proof, and the details of the proof.
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/92b945ce46edc1b1658882a700efd65b_lecture21_22.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/92b945ce46edc1b1658882a700efd65b_lecture21_22.pdf
 file_size: 147927
 file_type: application/pdf
 learning_resource_types:
