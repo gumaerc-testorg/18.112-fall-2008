@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/0a78067c46469cbf9a89a181082b2496_ps4.pdf
+file: /courses/18-112-functions-of-a-complex-variable-fall-2008/0a78067c46469cbf9a89a181082b2496_ps4.pdf
 file_size: 121663
 file_type: application/pdf
 learning_resource_types:
