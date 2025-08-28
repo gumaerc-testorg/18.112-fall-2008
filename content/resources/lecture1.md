@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary notes to a lecture on the algebra of complex numbers, the
   geometry of the complex plane, and the spherical representation.
-file: /courses/18-112-functions-of-a-complex-variable-fall-2008/9fd0d6089b7bafb0b249e144bc2c71f4_lecture1.pdf
+file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/9fd0d6089b7bafb0b249e144bc2c71f4_lecture1.pdf
 file_size: 119083
 file_type: application/pdf
 learning_resource_types:

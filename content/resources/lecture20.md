@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary notes to a lecture on the Riemann mapping theorem.
-file: /courses/18-112-functions-of-a-complex-variable-fall-2008/65b07f61f2231f3a7559503c2f03baa6_lecture20.pdf
+file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/65b07f61f2231f3a7559503c2f03baa6_lecture20.pdf
 file_size: 51359
 file_type: application/pdf
 learning_resource_types:

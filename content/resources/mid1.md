@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to an in-class exam on functions of a complex variable.
-file: /courses/18-112-functions-of-a-complex-variable-fall-2008/4fe691290c7bdeb3757512afe01f832c_mid1.pdf
+file: /ol-ocw-studio-app/courses/18-112-functions-of-a-complex-variable-fall-2008/4fe691290c7bdeb3757512afe01f832c_mid1.pdf
 file_size: 133260
 file_type: application/pdf
 learning_resource_types:
